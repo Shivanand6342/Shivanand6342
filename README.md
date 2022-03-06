@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: **Food-Ordering E-Commerece Website**
 
-- 🌱 I’m currently learning: **React Native, TailWind CSS, DSA**
+- 🌱 I’m currently learning: **React JS, TailWind CSS, DSA**
 
 - 👯 I’m looking to collaborate on: **Web Development Projects**
 
