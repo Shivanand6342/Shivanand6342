@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shivanand Vishwakarma</h1>
 <h3 align="center">A passionate Frontend and WordPress Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<h3 align="center">I'm a 3rd-year B.Tech Computer Science Undergraduate. I'm interested in Development Field. Passionate about Web Development and also participate in many events which helps me to pursue knowledge about it. Proficient in C++ and currently learning data structures, algorithms, and coding fundamentals which will help me understand and overcome the problems. Excellent ability to perform well in a team. Passionate about coding and enjoy learning new technologies.</h3>
+
+<img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand6342&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand6342" /> </p>
 
 - 🔭 I’m currently working on: **Food-Ordering E-Commerece Website**
+
+- 💻 Developed a Ecommerce site using Wordpress: [ShopatShopify](http://shopatshopify.onlinewebshop.net/)
 
 - 🌱 I’m currently learning: **React JS, TailWind CSS, DSA**
 
@@ -39,7 +43,6 @@
     <a href="https://github.com/Shivanand6342/github-readme-stats"><img alt="Shivanand Vishwakarma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shivanand6342&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </div>
   <br/>
-  <b>Actually</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
@@ -48,7 +51,4 @@
 
 <br/>
 <br/>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanand6342&show_icons=true&locale=en" alt="shivanand6342" /></p> -->
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanand6342&" alt="shivanand6342" /></p>
