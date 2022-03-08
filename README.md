@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **Food-Ordering E-Commerece Website**
 
-- 💻 Developed a Ecommerce site using Wordpress: [ShopatShopify](http://shopatshopify.onlinewebshop.net/) 
+- 💻 Developed a Ecommerce site using Wordpress: [ShopatShopify](http://shopatshopify.unaux.com/) 
 
 - 🌱 I’m currently learning: **React JS, TailWind CSS, DSA**
 
