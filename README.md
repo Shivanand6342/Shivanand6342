@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivanand Vishwakarma</h1>
-<h3 align="center">A passionate Frontend and WordPress Developer from India</h3>
+<h3 align="center">A passionate Frontend Web Developer from India</h3>
 <h3 align="center">I'm a 3rd-year B.Tech Computer Science Undergraduate. I'm interested in Development Field. Passionate about Web Development and also participate in many events which helps me to pursue knowledge about it. Proficient in C++ and currently learning data structures, algorithms, and coding fundamentals which will help me understand and overcome the problems. Excellent ability to perform well in a team. Passionate about coding and enjoy learning new technologies.</h3>
 
 <img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand6342&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand6342" /> </p>
 
-- 🔭 I’m currently working on: **Food-Ordering E-Commerece Website**
+- 🔭 I’m currently working on: **50 Days of JavaScript Challenge**
 
 - 💻 Developed a Ecommerce site using Wordpress: [ShopatShopify](http://shopatshopify.epizy.com/) 
 
