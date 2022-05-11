@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on: **50 Days of JavaScript Challenge**
 
-- 💻 Developed a Ecommerce site using Wordpress: [ShopatShopify](http://shopatshopify.epizy.com/) 
+- 💻 Developed a Ecommerce site using HTML, CSS, JavaScript, PhP and MySql: [Lapify](https://lapify.000webhostapp.com/) 
 
 - 🌱 I’m currently learning: **React JS, TailWind CSS, DSA**
 
