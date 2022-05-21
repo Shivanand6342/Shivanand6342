@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at my: **[Github Account](https://github.com/Shivanand6342)**
 
-- 💬 Ask me about: **HTML, CSS, JavaScript, WordPress**
+- 💬 Ask me about: **HTML, CSS, JavaScript, Bootstrap, jQuery, PHP, MySQL and WordPress**
 
 - 📫 How to reach me: **shivanandv66@gmail.com**
 
