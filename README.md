@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand6342&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand6342" /> </p>
 
+- 👨‍🎓 **[Portfolio](https://shivanand6342.github.io/Portfolio/)**
+
 - 🔭 I’m currently working on: **50 Days of JavaScript Challenge**
 
 - 💻 Developed a Ecommerce site using HTML, CSS, JavaScript, Bootstrap, jQuery, PhP and MySql: [Lapify](https://lapify.000webhostapp.com/) and [wowFood](https://wowfood6342.000webhostapp.com/)
