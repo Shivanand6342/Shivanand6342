@@ -22,7 +22,7 @@
 
 - 📫 How to reach me: **shivanandv66@gmail.com**
 
-- ⚡ Other hobbie: **I love to Play Games**
+- ⚡ Other hobbie: **Basketball, Playing PC Games**
 
 <br>
 <h3 align="left"> 👨‍🎓 Connect with me:</h3>
