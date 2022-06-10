@@ -12,7 +12,7 @@
 
 - 💻 Developed a Ecommerce site using HTML, CSS, JavaScript, Bootstrap, jQuery, PhP and MySql: [Lapify](https://lapify.000webhostapp.com/) and [wowFood](https://wowfood6342.000webhostapp.com/)
 
-- 🌱 I’m currently learning: **React JS, TailWind CSS, DSA**
+- 🌱 I’m currently learning: **React JS, TailWind CSS**
 
 - 👯 I’m looking to collaborate on: **Web Development Projects**
 
