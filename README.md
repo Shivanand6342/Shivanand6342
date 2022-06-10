@@ -8,7 +8,7 @@
 
 - 👨‍🎓 **[Portfolio](https://shivanand6342.github.io/Portfolio/)**
 
-- 🔭 I’m currently working on: **50 Days of JavaScript Challenge**
+- 🔭 I’m currently working on: **Learning React and Solving DSA Questions**
 
 - 💻 Developed a Ecommerce site using HTML, CSS, JavaScript, Bootstrap, jQuery, PhP and MySql: [Lapify](https://lapify.000webhostapp.com/) and [wowFood](https://wowfood6342.000webhostapp.com/)
 
