@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer</h3>
 <h3 align="center">I'm a 3rd-year B.Tech Computer Science Undergraduate. I'm interested in Development Field. Passionate about Web Development and also participate in many events which helps me to pursue knowledge about it. Proficient in C++ and currently learning data structures, algorithms, and coding fundamentals which will help me understand and overcome the problems. Excellent ability to perform well in a team. Passionate about coding and enjoy learning new technologies.</h3><br>
 
-<img align="right" alt="Coding" width="400" height="350" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif">
+<img align="right" alt="Coding" width="400" height="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand6342&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand6342" /> </p>
 
