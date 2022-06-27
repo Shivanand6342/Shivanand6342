@@ -10,7 +10,11 @@
 
 - 🔭 I’m currently working on: **React Projects**
 
-- 💻 Developed a Ecommerce site using HTML, CSS, JavaScript, Bootstrap, jQuery, PhP and MySql: [Lapify](https://lapify.000webhostapp.com/) and [wowFood](https://wowfood6342.000webhostapp.com/)
+- 🐱‍👤 Developed a **Real Time Communication and Messaging Web Application**: **[GetTogether](https://shivanand6342.github.io/GetTogether---RTC-RTM-Web-App/lobby.html)**
+
+- 🦾 Developed a **Chrome Extention** using **HTML, CSS, JavaScript**: **[All Your Socials](https://github.com/Shivanand6342/All-Your-Socials---Chrome-Extention)**
+
+- 💻 Developed an **Ecommerce website** using **HTML, CSS, JavaScript, Bootstrap, jQuery, PhP and MySql**: **[Lapify](https://lapify.000webhostapp.com/)** and **[wowFood](https://wowfood6342.000webhostapp.com/)**
 
 - 🌱 I’m currently learning: **React JS, TailWind CSS**
 
