@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on: **React Projects**
 
-- 🐱‍👤 Developed a **Real Time Communication and Messaging Web Application**: **[GetTogether](https://shivanand6342.github.io/GetTogether---RTC-RTM-Web-App/lobby.html)**
+- 🐱‍👤 Developed a **Real Time Communication and Messaging Web Application**: **[GetTogether](https://shivanand6342.github.io/GetTogether---RTC-M-Web-App/lobby.html)**
 
 - 🦾 Developed a **Chrome Extention** using **HTML, CSS, JavaScript**: **[All Your Socials](https://github.com/Shivanand6342/All-Your-Socials---Chrome-Extention)**
 
