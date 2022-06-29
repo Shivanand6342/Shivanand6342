@@ -12,7 +12,7 @@
 
 - 🐱‍👤 Developed a **Real Time Communication Web Application**: **[GetTogether](https://shivanand6342.github.io/GetTogether---Web-RTC-App/lobby.html)**
 
-- 👀 Developed a **Real Time Communication Video Calling Web Application**: **[VCall](https://shivanand6342.github.io/VCall---Web-RTC-Video-Call-App/lobby.html)
+- 👀 Developed a **Real Time Communication Video Calling Web Application**: **[VCall](https://shivanand6342.github.io/VCall---Web-RTC-Video-Call-App/lobby.html)**
 
 - 🦾 Developed a **Chrome Extention** using **HTML, CSS, JavaScript**: **[All Your Socials](https://github.com/Shivanand6342/All-Your-Socials---Chrome-Extention)**
 
