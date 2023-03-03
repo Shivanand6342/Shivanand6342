@@ -8,7 +8,7 @@
 
 - 👨‍🎓 **[Portfolio](https://shivanand6342.github.io/Portfolio/)**
 
-- 🔭 I’m currently working on: **React Projects**
+- 🔭 I’m currently working on: **SFCC Internship**
 
 - 🐱‍👤 Developed a **Real Time Communication Web Application**: **[GetTogether](https://shivanand6342.github.io/GetTogether---Web-RTC-App/lobby.html)**
 
