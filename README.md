@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand6342&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand6342" /> </p>
 
-- 👨‍🎓 **[Portfolio](https://shivanand6342.github.io/Portfolio/)**
+- 👨‍🎓 **[Portfolio](https://shivanand-portfolio.vercel.app/)**
 
 - 🔭 I’m currently working on: **SFCC Internship**
 
